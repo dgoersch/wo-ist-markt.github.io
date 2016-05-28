@@ -1,0 +1,242 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    6.445662,
+                    51.205247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Eicken",
+                "location": "Platz an der Eickener-/Badenstraße",
+                "opening_hours": "Tu,Fr 08:00-13:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.431873,
+                    51.195344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Stadtmitte",
+                "location": "Alter Markt und Kapuzinerplatz",
+                "opening_hours": "Tu,We,Sa 08:00-13:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.343478,
+                    51.204635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Hardt",
+                "location": "Marktplatz an der Vorsterstraße",
+                "opening_hours": "Mi 13:00-18:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.473222,
+                    51.224605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Neuwerk",
+                "location": "Peter-Schumacher-Platz",
+                "opening_hours": "Th 13:00-18:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.451904,
+                    51.223604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Bettrath",
+                "location": "Platz an der Kirche",
+                "opening_hours": "Fr 13:00-18:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.361642,
+                    51.148172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Rheindalen",
+                "location": "Mühlentorplatz",
+                "opening_hours": "Fr 13:00-18:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.445675,
+                    51.168022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Rheydt-Mitte",
+                "location": "Marktplatz Rheydt",
+                "opening_hours": "We,Sa 08:00-14:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.445675,
+                    51.168022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Fischmarkt Rheydt-Mitte",
+                "location": "Marktplatz Rheydt",
+                "opening_hours": "Fr 08:00-13:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.452612,
+                    51.133794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Odenkirchen",
+                "location": "Martin-Luther-Platz",
+                "opening_hours": "Tu,Fr 08:00-13:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.490914,
+                    51.155464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Giesenkirchen",
+                "location": "Konstantinplatz",
+                "opening_hours": "Th 08:00-13:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.412470,
+                    51.129222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Wickrath",
+                "location": "Marktplatz",
+                "opening_hours": "Th 08:00-13:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.388738,
+                    51.203193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Venn",
+                "location": "Marktplatz Mürrigerstraße",
+                "opening_hours": "Fr 13:00-18:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.409374,
+                    51.182208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Holt",
+                "location": "Platz vor der Kirche",
+                "opening_hours": "Th 08:00-13:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.474085,
+                    51.204262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt Lürrip",
+                "location": "Neuwerker-/Neusser Straße",
+                "opening_hours": "Th 13:00-18:00",
+                "opening_hours_unclassified": null
+            },
+            "type": "Feature"
+        }
+	],
+    "metadata": {
+        "data_source": {
+            "title": "Daten für Mönchengladbach von D.Görsch, CC BY 3.0 DE, aktualisiert am 27.05.2016",
+            "url": "http://sf.dvelo.de:8000/f/470ef4d604/"
+        },
+        "map_initialization": {
+            "coordinates": [
+                6.442280,
+                51.190157
+            ],
+            "zoom_level": 12
+        }
+    },
+    "type": "FeatureCollection"
+}
